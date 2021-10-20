@@ -1,2 +1,2 @@
-# geoimagine03-basins
-geoimagine03-basins
+# geoimagine02-basins
+GeoImagine v02 river basin delineation
